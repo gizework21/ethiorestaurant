@@ -73,7 +73,7 @@ const Hero = () => {
           >
             Ethiopian <span className="text-primary">Restaurant</span>
             <br />
-            Redefined
+            lancaster
           </motion.h1>
 
           <motion.p
